@@ -8,14 +8,18 @@ L'agence "Santé publique France" a lancé un appel à projets pour trouver des 
 
 Extrait de l’appel à projets :
 
-Le jeu de données Open Food Facts est disponible sur le site officiel (ou disponible à ce lien en téléchargement). Les variables sont définies à cette adresse.
+Le jeu de données Open Food Facts est disponible sur le site officiel:
+https://world.openfoodfacts.org/
+
+Les variables sont définies à cette adresse :
+https://world.openfoodfacts.org/data/data-fields.txt
 
 Les champs sont séparés en quatre sections :
 
-Les informations générales sur la fiche du produit : nom, date de modification, etc.
-Un ensemble de tags : catégorie du produit, localisation, origine, etc.
-Les ingrédients composant les produits et leurs additifs éventuels.
-Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
+- Les informations générales sur la fiche du produit : nom, date de modification, etc.
+- Un ensemble de tags : catégorie du produit, localisation, origine, etc.
+- Les ingrédients composant les produits et leurs additifs éventuels.
+- Des informations nutritionnelles : quantité en grammes d’un nutriment pour 100 grammes du produit.
 
 <h2>But et intérêt du projet</h2>
 
@@ -23,23 +27,24 @@ Après avoir lu l’appel à projets, voici les différentes étapes que vous av
 
 1) Traiter le jeu de données, en :
 
-Réfléchissant à une idée d’application.
-Repérant des variables pertinentes pour les traitements à venir, et nécessaires pour votre idée d’application.
-Nettoyant les données en :
-mettant en évidence les éventuelles valeurs manquantes, avec au moins 3 méthodes de traitement adaptées aux variables concernées,
-identifiant et en quantifiant les éventuelles valeurs aberrantes de chaque variable.
-Automatisant ces traitements pour éviter de répéter ces opérations
+- **Réfléchissant à une idée d’application.**
+- **Repérant des variables pertinentes** pour les traitements à venir, et nécessaires pour votre idée d’application.
+- **Nettoyant les données** en :
+  - mettant en évidence les éventuelles **valeurs manquantes**, avec au moins 3 méthodes de traitement adaptées aux variables concernées,
+  - identifiant et en quantifiant les éventuelles **valeurs aberrantes** de chaque variable.
+- **Automatisant ces traitements** pour éviter de répéter ces opérations
+
 Le programme doit fonctionner si la base de données est légèrement modifiée (ajout d’entrées, par exemple).
 
-2) Tout au long de l’analyse, produire des visualisations afin de mieux comprendre les données. Effectuer une analyse univariée pour chaque variable intéressante, afin de synthétiser son comportement.
+2) Tout au long de l’analyse, **produire des visualisations** afin de mieux comprendre les données. **Effectuer une analyse univariée** pour chaque variable intéressante, afin de synthétiser son comportement.
 
-L’appel à projets spécifie que l’analyse doit être simple à comprendre pour un public néophyte. Soyez donc attentif à la lisibilité : taille des textes, choix des couleurs, netteté suffisante, et variez les graphiques (boxplots, histogrammes, diagrammes circulaires, nuages de points…) pour illustrer au mieux votre propos.
+L’appel à projets spécifie que l’analyse doit être simple à comprendre pour un public néophyte. Soyez donc **attentif à la lisibilité** : taille des textes, choix des couleurs, netteté suffisante, et variez les graphiques (boxplots, histogrammes, diagrammes circulaires, nuages de points…) pour illustrer au mieux votre propos.
 
-3) Confirmer ou infirmer les hypothèses à l’aide d’une analyse multivariée. Effectuer les tests statistiques appropriés pour vérifier la significativité des résultats.
+3) **Confirmer ou infirmer les hypothèses à l’aide d’une analyse multivariée. Effectuer les tests statistiques appropriés** pour vérifier la significativité des résultats.
 
-4) Justifier votre idée d’application. Identifier des arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
+4) **Justifier votre idée d’application**. Identifier des arguments justifiant la faisabilité (ou non) de l’application à partir des données Open Food Facts.
 
-5) Rédiger un rapport d’exploration et pitcher votre idée durant la soutenance du projet.
+5) **Rédiger un rapport d’exploration et pitcher votre idée** durant la soutenance du projet.
 
 <h2>Compétences évaluées</h2>
 
