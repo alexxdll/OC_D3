@@ -4,7 +4,8 @@
 
 L'agence "Santé publique France" a lancé un appel à projets pour trouver des idées innovantes d’applications en lien avec l'alimentation. Vous souhaitez y participer et proposer une idée d’application.
 
-Les données
+<h2>Les données</h2>
+
 Extrait de l’appel à projets :
 
 Le jeu de données Open Food Facts est disponible sur le site officiel (ou disponible à ce lien en téléchargement). Les variables sont définies à cette adresse.
